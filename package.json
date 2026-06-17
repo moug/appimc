@@ -1,0 +1,23 @@
+{
+  "name": "appimc",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moug/appimc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moug/appimc/issues"
+  },
+  "homepage": "https://github.com/moug/appimc#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
